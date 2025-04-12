@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CasadozeinfoBaseApplication<casadozeinfo_base>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.casadozeinfo.casadozeinfo_base.CasadozeinfoBaseApplication",
+            "projectName": "casadozeinfo_base",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
