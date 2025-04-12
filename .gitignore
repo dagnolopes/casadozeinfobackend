@@ -94,6 +94,9 @@ build/
 ### VS Code ###
 .vscode/
 
-src/main/resources/application.properties
+/src/main/resources/application.properties
 nbactions.xml
 nb-configuration.xml
+
+/target/classes/application.properties
+target/classes/application.properties
